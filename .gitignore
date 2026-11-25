@@ -1,0 +1,17 @@
+# Gizli bilgiler (API anahtarı) - ASLA GitHub'a gitmemeli
+.env
+.env.local
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Projelerin çalışırken ürettiği kişisel dosyalar
+*/notlar.txt
+*/notlar/
+*/ciktilar/
+*/rezervasyonlar.json
+*/siparisler.json
+*.wav

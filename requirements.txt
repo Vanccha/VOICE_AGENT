@@ -1,0 +1,7 @@
+openai-agents[voice]
+sounddevice
+numpy
+python-dotenv
+httpx
+fastapi
+uvicorn
